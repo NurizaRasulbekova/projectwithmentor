@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "title": "satoru",
+      "price": "godji",
+      "descr": "awe",
+      "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/5a/Satoru_Gojo_arrives_on_the_battlefield_%28Anime%29.png/revision/latest?cb=20210226205256",
+      "id": 3
+    },
+    {
+      "title": "awe",
+      "price": "awe",
+      "descr": "awe",
+      "image": "awe",
+      "id": 4
+    },
+    {
+      "title": "awe",
+      "price": "awe",
+      "descr": "awe",
+      "image": "awe",
+      "id": 5
+    },
+    {
+      "title": "awe1",
+      "price": "awe1",
+      "descr": "awe1",
+      "image": "awe1",
+      "id": 6
+    },
+    {
+      "title": "qwe",
+      "price": "qwe",
+      "descr": "qwe",
+      "image": "qwe",
+      "id": 7
+    },
+    {
+      "title": "ewq",
+      "price": "ewq",
+      "descr": "ewq",
+      "image": "ewq",
+      "id": 8
+    },
+    {
+      "title": "ewa",
+      "price": "ewa",
+      "descr": "ewa",
+      "image": "eaw",
+      "id": 9
+    },
+    {
+      "title": "ivy",
+      "price": "ivy",
+      "descr": "ivy",
+      "image": "ivy",
+      "id": 10
+    }
+  ]
+}
